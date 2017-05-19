@@ -1,0 +1,67 @@
+atlas.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+foot
+  rotate: false
+  xy: 2, 2
+  size: 72, 28
+  orig: 72, 28
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 76, 2
+  size: 92, 103
+  orig: 92, 103
+  offset: 0, 0
+  index: -1
+lefthand_lower
+  rotate: false
+  xy: 170, 2
+  size: 46, 88
+  orig: 46, 88
+  offset: 0, 0
+  index: -1
+lefthand_upper
+  rotate: false
+  xy: 2, 107
+  size: 47, 121
+  orig: 47, 121
+  offset: 0, 0
+  index: -1
+leg_lower
+  rotate: false
+  xy: 51, 107
+  size: 54, 99
+  orig: 54, 99
+  offset: 0, 0
+  index: -1
+leg_upper
+  rotate: false
+  xy: 107, 107
+  size: 75, 110
+  orig: 75, 110
+  offset: 0, 0
+  index: -1
+righthand_lower
+  rotate: false
+  xy: 184, 107
+  size: 47, 93
+  orig: 47, 93
+  offset: 0, 0
+  index: -1
+righthand_upper
+  rotate: false
+  xy: 2, 230
+  size: 47, 125
+  orig: 47, 125
+  offset: 0, 0
+  index: -1
+torso
+  rotate: false
+  xy: 51, 230
+  size: 115, 210
+  orig: 115, 210
+  offset: 0, 0
+  index: -1
